@@ -1,0 +1,87 @@
+{
+    "fullName": "Bjarne Johnson",
+    "email": "bjarne@johnson.com",
+    "headline": "Software Engineer",
+    "profilePic": "https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?cs=srgb&dl=man-in-black-suit-jacket-smiling-3778603.jpg&fm=jpg",
+    "location": "London, United Kingdom",
+    "jobPositions": [
+        {
+            "title": "Software Engineering Manager",
+            "companyName": "Facebook",
+            "companyLogo": "https://media-exp1.licdn.com/dms/image/C560BAQF8rE3JvZVsSQ/company-logo_100_100/0?e=1599696000&v=beta&t=TyNH2XzqHecYtxV-pD1eSFD7TATjwQezfb-_J5Izlxo",
+            "url": "https://www.linkedin.com/company/facebook/",
+            "monthYearFrom": "Jan 2018",
+            "monthYearTo": "Present",
+            "location": "London, United Kingdom",
+            "description": ["* Hired and supported an 8-person software engineering team.", "* Led the team to build additional regional security platforms, and a data exchange enterprise product."]
+        },
+        {
+            "title": "Software Engineer",
+            "companyName": "Cisco",
+            "companyLogo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHO_cO49I_FRA/company-logo_100_100/0?e=1600300800&v=beta&t=VhavftSNTfv9LHgoPysFcjZ66uqjib0pchjBhFKOFHY",
+            "url": "https://www.linkedin.com/company/goldman-sachs/",
+            "monthYearFrom": "Jan 2017",
+            "monthYearTo": "Jan 2018",
+            "location": "London, United Kingdom"
+        }
+    ],
+    "educations": [
+        {
+            "degreeName": "BA",
+            "fieldOfStudy": "Arts",
+            "schoolName": "Harvard University",
+            "schoolLogo": "https://media-exp1.licdn.com/dms/image/C4D0BAQEGh_DklOKK1Q/company-logo_100_100/0?e=1599696000&v=beta&t=qMfTYTIc9bi7ZMGFZi07hTGiePFBxQsWPZhuU-JhJFk",
+            "yearFrom": 2013,
+            "yearTo": 2017
+        }
+    ],
+    "skills": [
+        "Leadership",
+        "Public Speaking",
+        "Management"
+    ],
+    "projects": [
+        {
+            "title": "abdeefdfasfd",
+            "monthYearFrom": "Apr 2020",
+            "monthYearTo": "Present",
+            "description": [
+                "testtesttesttest."
+            ],
+            "url": "https://google.com"
+        },
+        {
+            "title": "abdeefdfasfd",
+            "monthYearFrom": "Apr 2020",
+            "monthYearTo": "Present",
+            "description": [
+                "testtesttesttest."
+            ],
+            "url": "https://google.com"
+        },
+        {
+            "title": "abdeefdfasfd",
+            "monthYearFrom": "Apr 2020",
+            "monthYearTo": "Present",
+            "description": [
+                "testtesttesttest."
+            ],
+            "url": "https://google.com"
+        },
+        {
+            "title": "abdeefdfasfd",
+            "monthYearFrom": "Apr 2020",
+            "monthYearTo": "Present",
+            "description": [
+                "testtesttesttest."
+            ],
+            "url": "https://google.com"
+        }
+    ],
+    "contacts": [
+        {
+            "name": "’s Profile",
+            "url": "linkedin.com/in/me"
+        }
+    ]
+}
